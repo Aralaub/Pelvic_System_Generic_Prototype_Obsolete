@@ -1,7 +1,7 @@
 # Pelvic_System_Generic_Prototype_Obsolete
 # Pelvic System – Beta STL Files
 
-These STL files correspond to an early, **obsolete beta version** of a pelvic anatomical system developed between April and October 2025 as part of an initial interdisciplinary collaboration with the Faculty of Medicine of University of Valle (Cali - Colombia).
+These STL files correspond to an early, **obsolete beta version** of a pelvic anatomical system developed between April and October 20, 2025 as part of an initial interdisciplinary collaboration with the Faculty of Medicine of University of Valle (Cali - Colombia).
 
 ⚠️ **Important notice**  
 This version contains anatomical and functional inaccuracies and **is not intended for surgical simulation or clinical use**.
